@@ -1,0 +1,9 @@
+.filterName {
+  display: flex;
+  flex-direction: column;
+  margin: 10px auto 15px;
+  align-items: center;
+  font-size: large;
+  text-align: left;
+  padding: 10px 25px 10px 15px;
+}
